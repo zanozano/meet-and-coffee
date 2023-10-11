@@ -59,4 +59,4 @@ We value your interest in the Meet and Coffee Landing Page project. If you have 
 
 You can experience Meet and Coffee in action by visiting the following live link:
 
-[Live Meet and Coffee](#)
+[Live Meet and Coffee](https://meet-and-coffee.web.app/)
